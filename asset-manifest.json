@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Anwaar0012/textutils.git/static/css/main.abd64e84.css",
-    "main.js": "/Anwaar0012/textutils.git/static/js/main.58463c24.js",
-    "static/js/787.719ec76d.chunk.js": "/Anwaar0012/textutils.git/static/js/787.719ec76d.chunk.js",
-    "index.html": "/Anwaar0012/textutils.git/index.html",
-    "main.abd64e84.css.map": "/Anwaar0012/textutils.git/static/css/main.abd64e84.css.map",
-    "main.58463c24.js.map": "/Anwaar0012/textutils.git/static/js/main.58463c24.js.map",
-    "787.719ec76d.chunk.js.map": "/Anwaar0012/textutils.git/static/js/787.719ec76d.chunk.js.map"
+    "main.css": "/TextUtils-React/static/css/main.abd64e84.css",
+    "main.js": "/TextUtils-React/static/js/main.7c95d09f.js",
+    "static/js/787.719ec76d.chunk.js": "/TextUtils-React/static/js/787.719ec76d.chunk.js",
+    "index.html": "/TextUtils-React/index.html",
+    "main.abd64e84.css.map": "/TextUtils-React/static/css/main.abd64e84.css.map",
+    "main.7c95d09f.js.map": "/TextUtils-React/static/js/main.7c95d09f.js.map",
+    "787.719ec76d.chunk.js.map": "/TextUtils-React/static/js/787.719ec76d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
-    "static/js/main.58463c24.js"
+    "static/js/main.7c95d09f.js"
   ]
 }
